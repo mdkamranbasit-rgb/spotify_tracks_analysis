@@ -34,10 +34,11 @@ The analysis is based on a CSV file named spotify_tracks.csv. This dataset conta
 ---
 
 ## 🧩 Repository Structure
-- README.md → Project overview and summary  
+- README.md → Project overview and summary
+- spotify dataset analysis44.pptx
+- Spotify.ipynb → Main analysis notebook  
 - spotify_data_description.csv → Brief description of the raw dataset  
 - spotify_tracks.csv → Raw dataset analyzed  
-- Spotify.ipynb → Main analysis notebook  
 - Spotify.pdf → Summary of insights & visuals  
 
 ---
